@@ -1,2 +1,2 @@
 # RBHG
-This repo contains the Ristic Balakrishnan Harris G distributions
+This repo contains the R codes of the Ristic Balakrishnan Harris G distributions
